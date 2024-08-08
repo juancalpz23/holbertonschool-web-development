@@ -1,6 +1,6 @@
 /* Header && Banner Styles */
 body {
-    max-width: 1440px; /* from figma - desktop width */
+    max-width: auto;
     font-family: "Source Sans Pro", sans-serif;
   }
   
